@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **yuyang-khor/yuyang-khor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I am Yu Yang and I have experience in both frontend and backend development, as well as Machine Learning model development. I mainly use Python but will always be learning different languages to be used in my coding journey.
