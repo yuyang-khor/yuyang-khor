@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I aspire to be a Machine Learning engineer one day
 -->
-## About me
-I am Yu Yang and I have experience in both frontend and backend development, as well as Machine Learning model development. I mainly use Python but will always be learning different languages to be used in my coding journey.
+## About me 😄
+I am Yu Yang and I have experience in both frontend and backend development, as well as Machine Learning model development. I mainly use Python but will always be learning different languages to be used in my coding journey. I accomplished a diploma in Applied AI & Analytics in Singapore Polytechnic and aspire to be a ✨Machine Learning Engineer✨ one day! ⚡⚡
